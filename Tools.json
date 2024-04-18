@@ -1,0 +1,68 @@
+{
+    "IridiumAxe": {
+        "id": "IridiumAxe",
+        "name": "Iridium Axe",
+        "type": "T",
+        "zName": "铱斧头"
+    },
+    "AdvancedIridiumRod": {
+        "id": "AdvancedIridiumRod",
+        "name": "Advanced Iridium Rod",
+        "type": "T",
+        "zName": "高级铱金鱼竿"
+    },
+    "IridiumHoe": {
+        "id": "IridiumHoe",
+        "name": "Iridium Hoe",
+        "type": "T",
+        "zName": "铱锄头"
+    },
+    "Lantern": {
+        "id": "Lantern",
+        "name": "Lantern",
+        "type": "T",
+        "zName": "灯笼"
+    },
+    "MilkPail": {
+        "id": "MilkPail",
+        "name": "Milk Pail",
+        "type": "T",
+        "zName": "挤奶桶"
+    },
+    "IridiumPan": {
+        "id": "IridiumPan",
+        "name": "Iridium Pan",
+        "type": "T",
+        "zName": "铱淘盘"
+    },
+    "IridiumPickaxe": {
+        "id": "IridiumPickaxe",
+        "name": "Iridium Pickaxe",
+        "type": "T",
+        "zName": "铱十字镐"
+    },
+    "ReturnScepter": {
+        "id": "ReturnScepter",
+        "name": "Return Scepter",
+        "type": "T",
+        "zName": "回程魔杖"
+    },
+    "Shears": {
+        "id": "Shears",
+        "name": "Shears",
+        "type": "T",
+        "zName": "剪刀"
+    },
+    "IridiumWateringCan": {
+        "id": "IridiumWateringCan",
+        "name": "Iridium Watering Can",
+        "type": "T",
+        "zName": "铱喷壶"
+    },
+    "IridiumTrashCan": {
+        "id": "IridiumTrashCan",
+        "name": "Iridium Trash Can",
+        "type": "T",
+        "zName": "铱垃圾桶"
+    }
+}
