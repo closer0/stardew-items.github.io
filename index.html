@@ -231,7 +231,7 @@
         let isClip = null;
         let itemsList = '', itemArr = [],selTypeArr=[];
         const code = '#$action AddItem ';
-        if (navigator.clipboard) {
+        if (navigator.clipboard && navigator.permissions) {
             isClip = true
         } else {
             isClip = false
